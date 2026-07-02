@@ -3,7 +3,7 @@
 One Hello world. Made to prove I still remember how to compile a Java file.
 
 
-[Hello World Java Demonstration](https://youtu.be/645EbzobTjo)
+[Hello World Java Demonstration](https://www.youtube.com/watch?v=FE8lKDen0TQ)
 
 # Development Environment
 
